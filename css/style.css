@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body{
+  font-family:'Slabo 27px',Serif;
+  background-image: url('http://hdwall-papers.com/data/wallpapers/144/WDF_1857791.jpg');
+}
+
+.head{
+  border: solid black 2px;
+  border-radius: 150px;
+}
+
+.field{
+  border: solid black 3px;
+  border-radius:20px;
+  padding:5px;
+  padding-left:20px;
+}
